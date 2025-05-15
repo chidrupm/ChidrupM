@@ -9,3 +9,11 @@ Welcome to my GitHub profile! I'm a passionate DevOps Engineer and tech enthusia
 - 📫 Reach out to me via: (chidrupmadhu7@gmail.com)
 - ⚡ Fun fact:I love to travel and visit tech conferences around the world! 🌍
 
+## Let's Connect 
+Feel free to reach out to me on:
+- [LinkedIn](www.linkedin.com/in/m-chidrup-228021184)
+##  Fun Start 
+- 🌍 **Languages Spoken**: English, Hindi, Kannada, Tamil 
+- 🎮 **Hobbies**: Reading,Technology, Skiing, Surfing, Photography, Football, 
+- 🌱 **Currently Learning**: ML, AI, Cloud Development
+
